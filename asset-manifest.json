@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/deploy/static/css/main.ca098e0d.chunk.css",
+    "main.js": "/deploy/static/js/main.49b0bee8.chunk.js",
+    "main.js.map": "/deploy/static/js/main.49b0bee8.chunk.js.map",
+    "runtime-main.js": "/deploy/static/js/runtime-main.422d4866.js",
+    "runtime-main.js.map": "/deploy/static/js/runtime-main.422d4866.js.map",
+    "static/js/2.ab78782b.chunk.js": "/deploy/static/js/2.ab78782b.chunk.js",
+    "static/js/2.ab78782b.chunk.js.map": "/deploy/static/js/2.ab78782b.chunk.js.map",
+    "index.html": "/deploy/index.html",
+    "precache-manifest.ce65242eb1a459aab1ee8a2aca827d5b.js": "/deploy/precache-manifest.ce65242eb1a459aab1ee8a2aca827d5b.js",
+    "service-worker.js": "/deploy/service-worker.js",
+    "static/css/main.ca098e0d.chunk.css.map": "/deploy/static/css/main.ca098e0d.chunk.css.map",
+    "static/js/2.ab78782b.chunk.js.LICENSE.txt": "/deploy/static/js/2.ab78782b.chunk.js.LICENSE.txt",
+    "static/media/agencia-santana-white.svg": "/deploy/static/media/agencia-santana-white.d1c09e92.svg",
+    "static/media/agencia-santana.webp": "/deploy/static/media/agencia-santana.05b0b8ea.webp",
+    "static/media/clientes.webp": "/deploy/static/media/clientes.769ea95c.webp",
+    "static/media/font-awesome.min.css": "/deploy/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/github.svg": "/deploy/static/media/github.4ffd4fe7.svg",
+    "static/media/google.svg": "/deploy/static/media/google.87be59a1.svg",
+    "static/media/hero-agencia.webp": "/deploy/static/media/hero-agencia.699aed41.webp",
+    "static/media/ill-2.svg": "/deploy/static/media/ill-2.594b1ee1.svg",
+    "static/media/img-1-1200x1000.jpg": "/deploy/static/media/img-1-1200x1000.1e7c70dc.jpg",
+    "static/media/img-2-1200x1000.jpg": "/deploy/static/media/img-2-1200x1000.ba449a06.jpg",
+    "static/media/nucleo.css": "/deploy/static/media/nucleo-icons.f82ec6ba.ttf",
+    "static/media/promo-1.png": "/deploy/static/media/promo-1.75f7ab18.png",
+    "static/media/responsive-design.svg": "/deploy/static/media/responsive-design.052702d8.svg",
+    "static/media/seo.svg": "/deploy/static/media/seo.b184835c.svg",
+    "static/media/team-1-800x800.jpg": "/deploy/static/media/team-1-800x800.53033970.jpg",
+    "static/media/team-2-800x800.jpg": "/deploy/static/media/team-2-800x800.dcfcf3b7.jpg",
+    "static/media/team-3-800x800.jpg": "/deploy/static/media/team-3-800x800.497bb359.jpg",
+    "static/media/team-4-800x800.jpg": "/deploy/static/media/team-4-800x800.23007132.jpg",
+    "static/media/uxui.svg": "/deploy/static/media/uxui.1902afd2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.422d4866.js",
+    "static/js/2.ab78782b.chunk.js",
+    "static/css/main.ca098e0d.chunk.css",
+    "static/js/main.49b0bee8.chunk.js"
+  ]
+}
